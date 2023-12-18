@@ -1,0 +1,1 @@
+This repository is just for learning git commands and some GIT structure.
